@@ -5,7 +5,7 @@ import time
 import x16k33_matrix_led_5x5
 
 matrix_led_5x5 = x16k33_matrix_led_5x5.X16k33MatrixLed5x5(
-    i2c=machine.I2C(0, sda=21, scl=22))
+    i2c=machine.I2C(0, sda=21, scl=22), i2c_address=0x75)
 
 print('start')
 
