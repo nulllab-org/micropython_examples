@@ -9,7 +9,8 @@
 | Photoresistor sensor | [read_adc/main.py](read_adc/main.py) | [25, 3V3, G]</br> [26, 3V3, G]</br>  [34, 3V3, G]</br>[35, 3V3, G]</br> [36, 3V3, G]</br> [39, 3V3, G]</br> |
 | Ultrasonic sensor | [ultrasonic_one_wire/main.py](ultrasonic_one_wire/main.py) | [5, 3V3, G]</br>[25, 3V3, G]</br>[26, 3V3, G]</br>
 | Potentiometer (rotary) | [read_adc/main.py](read_adc/main.py) | [25, 3V3, G]</br> [26, 3V3, G]</br>  [34, 3V3, G]</br>[35, 3V3, G]</br> [36, 3V3, G]</br> [39, 3V3, G]</br> |
-| Servo motor (Lego, 180 degree) | [servo180/main.py](servo180/main.py)  | [4, 3V3, G]</br>[5, 3V3, G]</br>[25, 3V3, G]</br>[26, 3V3, G]</br> |
+| Servo motor (180 degree) | [servo/main.py](servo/main.py)  | [4, 3V3, G]</br>[5, 3V3, G]</br>[25, 3V3, G]</br>[26, 3V3, G]</br> |
+| Geek Servo motor (270 degree) | [geek_servo_270/main.py](geek_servo_270/main.py)  | [4, 3V3, G]</br>[5, 3V3, G]</br>[25, 3V3, G]</br>[26, 3V3, G]</br> |
 | Servo motor (Lego, 360 degree) | [servo360/main.py](servo360/main.py)  | [4, 3V3, G]</br>[5, 3V3, G]</br>[25, 3V3, G]</br>[26, 3V3, G]</br> |
 | RGB LED | [rgb_led/main.py](rgb_led/main.py) | [25, 26, 27, 3V3, G]</br>[23, 32, 33, 3V3, G] |
 | 5x5 Dot matrix | [x16k33_matrix_led_5x5/main.py](x16k33_matrix_led_5x5/main.py) | [SCL, SDA, 5V, G] |
