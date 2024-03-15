@@ -23,7 +23,7 @@
 | Sound sensor | [read_digital_and_adc/main.py](read_digital_and_adc/main.py) | [12, 13, 5V, G]</br>[14, 15, 5V, G]</br>[19, 39, 3V3, G]</br>[18, 36, 3V3, G] |
 | Joystick | [joystick/main.py](joystick/main.py) | [25, 26, 27, 3V3, G]</br>[23, 32, 33, 3V3, G] |
 | 4 digit 7 segment | [tm1650_four_digit_led/main.py](tm1650_four_digit_led/main.py) | [SCL, SDA, 5V, G] |
-| IR Receiver & IR remote controller | [ir_remote_control_receiver/main.py](ir_remote_control_receiver/main.py) | [4, 3V3, G]</br>[5, 3V3, G]</br> [25, 3V3, G]</br>[26, 3V3, G]</br>[34, 3V3, G]</br>[35, 3V3, G]</br> |
+| IR Receiver & IR remote controller | [ir_remote_control_receiver/main.py](ir_remote_control_receiver/main.py) | [4, 3V3, G]</br>[5, 3V3, G]</br> [25, 3V3, G]</br>[26, 3V3, G]</br>[34, 3V3, G]</br>[35, 3V3, G]</br>**[36, 3V3, G]**</br>**[39, 3V3, G]**</br> |
 | Touch sensor  | [read_digital/main.py](read_digital/main.py) | [4, 3V3, G]</br> [5, 3V3, G]</br> [25, 3V3, G]</br> [26, 3V3, G]</br>  [34, 3V3, G]</br>[35, 3V3, G]</br> [36, 3V3, G]</br> [39, 3V3, G]</br> |
 | Tilt sensor | [read_digital/main.py](read_digital/main.py) | [4, 3V3, G]</br> [5, 3V3, G]</br> [25, 3V3, G]</br> [26, 3V3, G]</br>  [34, 3V3, G]</br>[35, 3V3, G]</br> [36, 3V3, G]</br> [39, 3V3, G]</br> |
 | Shock sensor | [read_digital_and_adc/main.py](read_digital_and_adc/main.py) | [12, 13, 5V, G]</br>[14, 15, 5V, G]</br>[19, 39, 3V3, G]</br>[18, 36, 3V3, G] |
