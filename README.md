@@ -35,4 +35,4 @@
 | 5V relay module | [write_digital/main.py](write_digital/main.py) | [4, 3V3, G]</br>[5, 3V3, G]</br>[25, 3V3, G]</br>[26, 3V3, G]</br> |
 | 4 buttons module | [read_adc/main.py](read_adc/main.py) | [25, 3V3, G]</br> [26, 3V3, G]</br>  [34, 3V3, G]</br>[35, 3V3, G]</br> [36, 3V3, G]</br> [39, 3V3, G]</br> |
 | qma6100p 3-axis accelerometer | [qma6100p/measure_gesture/main.py](qma6100p/measure_gesture/main.py)</br>[qma6100p/read_acceleration/main.py](qma6100p/read_acceleration/main.py) | [SCL, SDA, 5V, G] |
-| adc five button | [adc_five_button/main.py](adc_five_button/main.py) | [25, 3V3, G]</br> [26, 3V3, G]</br>  [34, 3V3, G]</br>[35, 3V3, G]</br> [36, 3V3, G]</br> [39, 3V3, G]</br> |
+| adc keyboard | [adc_keyboard/main.py](adc_keyboard/main.py) | [25, 3V3, G]</br> [26, 3V3, G]</br>  [34, 3V3, G]</br>[35, 3V3, G]</br> [36, 3V3, G]</br> [39, 3V3, G]</br> |
